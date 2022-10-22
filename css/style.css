@@ -135,3 +135,9 @@ a:hover {
   letter-spacing: 5px;
   margin-bottom: 3.125rem;
 }
+
+@media (max-width: 460px) {
+  body {
+    zoom: 0.6;
+  }
+}
