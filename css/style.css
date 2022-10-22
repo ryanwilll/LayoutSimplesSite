@@ -136,9 +136,8 @@ a:hover {
   margin-bottom: 3.125rem;
 }
 
-@media only screen and (max-width: 375px) {
+@media (max-width: 460px) {
   main {
-    transform: scale(0.8);
-    max-width: 2rem;
+    transform: scale(0.4);
   }
 }
