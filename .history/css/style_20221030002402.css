@@ -138,6 +138,7 @@ a:hover {
 
 @media (max-width: 460px) {
   main {
-    zoom: 0.36;
+    user-zoom: 0.4;
+    zoom: 0.3;
   }
 }
